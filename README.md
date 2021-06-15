@@ -6,3 +6,10 @@ CS2_AI assignments and projects will be stored here
 
 **Assignment # 2**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zainab-111/AI_Assignments/main?filepath=Assignment_2(SP18-BCS-177).ipynb)
+
+**Assignment # 3**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zainab-111/AI_Assignments/main?filepath=Assignment_3(SP18-BCS-177).ipynb)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/zainab-111/AI_Assignments/main?filepath=Assignment_3(SP18-BCS-177).ipynb
