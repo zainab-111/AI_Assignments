@@ -11,3 +11,4 @@ CS2_AI assignments and projects will be stored here
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zainab-111/AI_Assignments/main?filepath=Assignment_3(SP18-BCS-177).ipynb)
 
 **Quiz # 3**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zainab-111/AI_Assignments/main?filepath=Quiz_3(Sp18-BCS-177).ipynb)
